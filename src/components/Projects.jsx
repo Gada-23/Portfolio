@@ -35,7 +35,7 @@ export default function Projects(){
                   {p.tech.map(t=> <span key={t} className="badge-tech">{t}</span>)}
                 </div>
                 <div className="mt-auto d-flex gap-2">
-                  <a className="btn btn-outline-secondary" href="#" target="_blank" rel="noreferrer"><FaGithub className="me-1"/> GitHub</a>
+                  <a className="btn btn-outline-secondary" href="https://exam-system-rho.vercel.app/" target="_blank" rel="noreferrer"><FaGithub className="me-1"/> GitHub</a>
                   <a className="btn btn-primary-custom text-white" href="#" target="_blank" rel="noreferrer"><FaExternalLinkAlt className="me-1"/> Live Demo</a>
                 </div>
               </div>

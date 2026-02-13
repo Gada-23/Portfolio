@@ -29,9 +29,9 @@ export default function Contact(){
             <h5>Get in touch</h5>
             <p className="text-muted">Feel free to reach out on social platforms or send an email.</p>
             <div className="d-flex gap-4 mt-3">
-              <a href="#" className="text-decoration-none text-dark d-flex align-items-center gap-2"><FaGithub size={20}/> <span>GitHub</span></a>
-              <a href="#" className="text-decoration-none text-dark d-flex align-items-center gap-2"><FaLinkedin size={20}/> <span>LinkedIn</span></a>
-              <a href="mailto:email@example.com" className="text-decoration-none text-dark d-flex align-items-center gap-2"><FaEnvelope size={20}/> <span>Email</span></a>
+              <a href="https://github.com/Gada-23" className="text-decoration-none text-dark d-flex align-items-center gap-2"><FaGithub size={20}/> <span>GitHub</span></a>
+              <a href="https://www.linkedin.com/in/gada-solomon-81142b24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-decoration-none text-dark d-flex align-items-center gap-2"><FaLinkedin size={20}/> <span>LinkedIn</span></a>
+              <a href="mailto:gadaakiyya003@gmail.com" className="text-decoration-none text-dark d-flex align-items-center gap-2"><FaEnvelope size={20}/> <span>Email</span></a>
             </div>
           </div>
         </div>
